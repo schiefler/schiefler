@@ -1,5 +1,9 @@
-### Hi there 👋
+## Schiefler
 
+[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Perez-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremarcosperez)
+[![GitHub Badge](https://img.shields.io/badge/-Andre%20Perez-black?style=flat-square&logo=github&logoColor=white)](https://github.com/andre-marcos-perez)
+[![Twitter Badge](https://img.shields.io/badge/-dekoperez-1da1f2?style=flat-square&logo=twitter&logoColor=white)](mailto:schiefler@me.com)
+[![Gmail Badge](https://img.shields.io/badge/-@-c14438?style=flat-square&logo=gmail&logoColor=white)](https://twitter.com/lguiga)
 <!--
 **schiefler/schiefler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
